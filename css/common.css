@@ -63,6 +63,10 @@ img {
     font-family: 'Cherry Bomb One', cursive;
 }
 
+.site-menu ul li a {
+    font-family: 'Cherry Bomb One', cursive;
+}
+
 .footer {
     color: #ffffff;
     background-color: #24211b;
